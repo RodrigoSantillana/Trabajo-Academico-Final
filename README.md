@@ -1,4 +1,4 @@
-# Satisfacción estudiantil: Pandas, SQLite, Matplotlib y Bokeh
+# Satisfacción estudiantil: Pandas, SQLite, Matplotlib, Bokeh y PyGWalker
 
 Trabajo final del curso Herramientas para Inteligencia Artificial (Maestría en Inteligencia Artificial Aplicada).
 
@@ -75,4 +75,4 @@ Abrir `satisfaccion_estudiantil.ipynb` y ejecutar todas las celdas en orden.
 
 ## Librerías
 
-`kagglehub` para descargar los datos, Pandas y NumPy para leerlos y transformarlos, `sqlite3` para la base de datos, y Matplotlib y Bokeh para los gráficos.
+`kagglehub` para descargar los datos, Pandas y NumPy para leerlos y transformarlos, `sqlite3` para la base de datos, y Matplotlib, Bokeh y PyGWalker para los gráficos.
