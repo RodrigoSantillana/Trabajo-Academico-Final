@@ -62,7 +62,13 @@ La encuesta original tiene datos personales y no se publica. Antes de subir los 
 - El programa de estudios se reemplazó por su área de conocimiento.
 - Cada combinación de área, sexo, rango de edad, etapa y procedencia aparece en cinco estudiantes o más. Cuando una combinación tenía menos de cinco, se borró el rango de edad o la etapa (`No especificado`), y 19 filas que aun así seguían en grupos pequeños se retiraron.
 
+## Informe
+
+El informe completo del trabajo está en la wiki del repositorio: [Trabajo Académico Final](https://github.com/RodrigoSantillana/Trabajo-Academico-Final/wiki/Trabajo-Acad%C3%A9mico-Final).
+
 ## Cómo ejecutar
+
+El notebook funciona igual en Jupyter Lab y en Google Colab. En los dos casos descarga los datos desde Kaggle, así que no hace falta subir ningún archivo.
 
 ### Jupyter Lab
 
@@ -72,6 +78,13 @@ python -m jupyterlab
 ```
 
 Abrir `satisfaccion_estudiantil.ipynb` y ejecutar todas las celdas en orden.
+
+### Google Colab
+
+1. Abrir el notebook en Colab con este enlace: [satisfaccion_estudiantil.ipynb en Colab](https://colab.research.google.com/github/RodrigoSantillana/Trabajo-Academico-Final/blob/main/satisfaccion_estudiantil.ipynb).
+2. Ejecutar todas las celdas en orden (menú *Entorno de ejecución* > *Ejecutar todas*).
+
+La primera celda instala `kagglehub` y `pygwalker`. Colab ya trae instaladas las demás librerías.
 
 ## Librerías
 
